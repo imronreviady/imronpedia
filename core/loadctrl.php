@@ -1,0 +1,9 @@
+<?php
+require_once("controllers/auth.php");
+require_once("controllers/user.php");
+require_once("controllers/admin.php");
+require_once("controllers/product.php");
+require_once("controllers/wishlist.php");
+require_once("controllers/orders.php");
+require_once("controllers/notifications.php");
+require_once("controllers/messages.php");
